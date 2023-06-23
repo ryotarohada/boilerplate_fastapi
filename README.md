@@ -1,0 +1,2 @@
+# boilerplate_fastapi
+FastAPIテンプレート
